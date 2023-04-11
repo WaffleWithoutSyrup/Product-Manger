@@ -24,3 +24,5 @@ class ProductManager {
 }
 const productManagerTest =new ProductManager();
 productManagerTest. addProduct
+
+console.log(ProductManager);
